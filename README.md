@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
+## 📖 项目文档
+
+本项目提供了详细的 Wiki 文档，包含以下内容：
+
+- [项目概述](wiki/Home.md)
+- [主题切换功能](wiki/Theme-Switch.md)
+- [组件文档](wiki/Components.md)
+- [技术栈](wiki/Tech-Stack.md)
+- [开发指南](wiki/Development-Guide.md)
+
 ## Getting Started
 
 First, run the development server:
